@@ -18,7 +18,7 @@ Agent Space is an open-source framework that automatically selects the appropria
 
 ![Alt text](https://github.com/soonchain/4AI-Agent-Space/blob/main/img/Agent_Space.png)
 
-## Component
+### Component
 ### 🔥 Pioneer  
 This is the starting point that initiates the task with tags and a specific task. It sends the task with tags { tag: 1+4, task }.
 
